@@ -3,8 +3,8 @@
 #include <Ticker.h>
 #include "AsyncPing.h"            // https://github.com/akaJes/AsyncPing
 
-#define WIFI_SSID "HuNor"        // Wi-Fi network SSID (network name)
-#define WIFI_PSK  "1234554321"         // Wi-Fi network pre-shared key (password)
+#define WIFI_SSID "Molnari"        // Wi-Fi network SSID (network name)
+#define WIFI_PSK  "19782000"         // Wi-Fi network pre-shared key (password)
 
 #define INTERNET_LOST     300     // seconds since last received ping before the Internet connection is deemed lost 
 #define PING_INTERVAL      10     // seconds between ping requests 
